@@ -1,0 +1,6 @@
+{
+  "name": "Cashflow App",
+  "description": "A web-based finance management application to help individuals and small businesses manage finances, with AI-powered reporting, PDF exporting, and CSV importing.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
